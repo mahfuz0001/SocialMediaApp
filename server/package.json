@@ -1,0 +1,8 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "Backend For SocialMedia",
+  "main": "index.js",
+  "author": "mahfuz",
+  "license": "MIT"
+}
